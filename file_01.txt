@@ -1,0 +1,2 @@
+This is sample file created for python file function check.
+Any new learning can be added here

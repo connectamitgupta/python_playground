@@ -1,0 +1,2 @@
+this is third file from scratch
+this is new line in file through 'with' method

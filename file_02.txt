@@ -1,0 +1,2 @@
+This is file created by python from scractch
+This is second line in file which i created earlier
